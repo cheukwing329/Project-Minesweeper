@@ -230,7 +230,7 @@ void Game::OpenEmptyMap(int y, int x)
 			}
 			else if (mvv_nMap[cury][curx] == 0)
 			{
-				mvv_cGame[cury][curx] = Map2Game(y, x);
+				mvv_cGame[cury][curx] = Map2Game(cury, curx);
 				m_nOpened++;
 				OpenEmptyMap(cury, curx);
 			}
