@@ -1,7 +1,7 @@
 # Project-Minesweeper
 This is a personal project that build a console game application, minesweeper
 
-IF you want a try, feel free to download minesweeper.exe
+IF you want to try, feel free to download minesweeper.exe
 
 # User Flow
 Before game start, player need to input 1 or 2 or 3 to choose the difficulty.
